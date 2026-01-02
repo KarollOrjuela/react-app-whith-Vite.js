@@ -1,3 +1,4 @@
+// Constante donde se guardan datos en formato JSON
 export const task = [
     {
         id : 0,
